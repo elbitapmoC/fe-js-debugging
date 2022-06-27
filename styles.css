@@ -1,0 +1,13 @@
+body {
+    background-color: #343434;
+    color:bisque;
+}
+
+#circle {
+    height: 50px;
+    width: 50px;
+    background-color: cadetblue;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+    position: relative;
+}
